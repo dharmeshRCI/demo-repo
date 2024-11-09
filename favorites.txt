@@ -1,3 +1,11 @@
+Fruits :
+
 orange
 mango
 banana
+
+Movies :
+
+Bahubali
+Malamaal vickly
+Golmaal
